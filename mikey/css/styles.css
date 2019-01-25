@@ -1,0 +1,39 @@
+html {
+	font-family: courier new;
+	font-size: 75%;
+}
+
+.container {
+	width: 330px;
+}
+
+.main {
+		text-align: center;
+		padding: 10px;
+		border-top: 1px lightgrey solid;
+		border-bottom: 1px lightgrey solid;
+}
+
+.header {
+	padding: 10px;
+}
+
+.heading {
+	text-align: center;
+	color: grey;
+}
+
+.info {
+	text-align: center;
+	padding-bottom: 8px;
+}
+
+.footer {
+	padding: 10px;
+	color: grey;
+}
+
+.footnote {
+	text-align: left;
+	font-size: 85%
+}
