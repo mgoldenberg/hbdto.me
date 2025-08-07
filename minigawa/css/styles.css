@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    background: #b32a2aff;
+}
+
+object {
+    display: block;
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    width: 90%;
+    height: 90%;
+}
